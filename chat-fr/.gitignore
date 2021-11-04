@@ -1,0 +1,11 @@
+.idea
+node_modules/
+package-lock.json
+__dev/
+./.vscode
+.vscode
+.sh
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
